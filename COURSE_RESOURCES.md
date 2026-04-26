@@ -29,7 +29,7 @@ cd chatbot && chainlit run 4_authentication.py --port 10000 --host 0.0.0.0
 
 The URL for our demo logo: 
 ```
-https://upload.wikimedia.org/wikipedia/commons/e/e3/Udemy_logo.svg
+https://drive.google.com/file/d/1_KKCbal1cQMht-PwC5YNFzVXx77IY0Bb/view?usp=sharing
 ```
 
 ### Adding Authentication
